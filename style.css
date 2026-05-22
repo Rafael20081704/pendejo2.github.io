@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(3, 176, 199);
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+}
+button#button_pendejo{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-image: linear-gradient(rgb(217, 255, 0), rgb(255, 0, 0));
+    color: white;
+    font-size: 50px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-style: normal;
+}
